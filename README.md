@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://modified-bouc-wen-model-simulation.ai.studio"><img src="https://img.shields.io/badge/🚀_Live_App-Google_AI_Studio-4285F4.svg?style=for-the-badge&logo=google" alt="Live App on Google Studio"/></a>
-  <a href="https://waqasmbaig.github.io/Modified-Bouc-Wen-Model-Simulation/"><img src="https://img.shields.io/badge/🌐_Mirror-GitHub_Pages-181717.svg?style=for-the-badge&logo=github" alt="GitHub Pages Mirror"/></a>
+  <a href="https://waqasmbaig.github.io/MR-Damper-Lab/"><img src="https://img.shields.io/badge/🌐_Mirror-GitHub_Pages-181717.svg?style=for-the-badge&logo=github" alt="GitHub Pages Mirror"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776ab.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebooks-f37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
@@ -52,11 +52,11 @@ The simulation runs 100% in-browser with zero installation required:
     <td align="center" width="50%">
       <h3>🐙 Secondary Mirror (GitHub Pages)</h3>
       <p>Direct mirror hosted on GitHub Pages for offline caching.</p>
-      <a href="https://waqasmbaig.github.io/Modified-Bouc-Wen-Model-Simulation/">
+      <a href="https://waqasmbaig.github.io/MR-Damper-Lab/">
         <img src="https://img.shields.io/badge/Launch_GitHub_Pages-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub Pages" />
       </a>
       <br/><br/>
-      <code>https://waqasmbaig.github.io/Modified-Bouc-Wen-Model-Simulation/</code>
+      <code>https://waqasmbaig.github.io/MR-Damper-Lab/</code>
     </td>
   </tr>
 </table>

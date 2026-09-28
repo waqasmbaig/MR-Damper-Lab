@@ -1,0 +1,29 @@
+{
+  "name": "modified-bouc-wen-model-simulation",
+  "version": "2.0.0",
+  "description": "Interactive Web Simulation and Digital Twin of Modified Bouc-Wen (Spencer) Magnetorheological (MR) Damper Model",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "magnetorheological-damper",
+    "mr-damper",
+    "bouc-wen-model",
+    "spencer-model",
+    "digital-twin",
+    "semi-active-suspension",
+    "vibration-control",
+    "hysteresis-simulation",
+    "engineering-simulation"
+  ],
+  "author": "W. M. Baig",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waqasmbaig/Modified-Bouc-Wen-Model-Simulation.git"
+  },
+  "homepage": "https://modified-bouc-wen-model-simulation.ai.studio"
+}
