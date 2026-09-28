@@ -22,6 +22,14 @@
 
 ---
 
+> [!TIP]
+> **🔗 MR Damper Companion Ecosystem**:
+> - **[Semi-Active-MR-Damper-Control](https://github.com/waqasmbaig/Semi-Active-MR-Damper-Control)**: 2-DOF Quarter-Car vehicle dynamics simulation, Skyhook / Groundhook semi-active control, and Basic Linear Passive Damper comparison in Python & Simulink.
+> - **[MRD-Modified-Bouc-Wen-Model](https://github.com/waqasmbaig/MRD-Modified-Bouc-Wen-Model)**: Core experimental MR damper phenomenological model & dyno characterization in MATLAB/Simulink and Python.
+> - **[Modified-Bouc-Wen-Model-Simulation](https://github.com/waqasmbaig/Modified-Bouc-Wen-Model-Simulation)**: In-browser web application hosted on Google AI Studio.
+
+---
+
 ## 📖 Overview
 
 **MR Damper Lab** is the dedicated companion repository, user guide, experiment curriculum, and data analysis toolkit for the **[Modified Bouc-Wen MR Damper Web Simulator](https://modified-bouc-wen-model-simulation.ai.studio)**.
